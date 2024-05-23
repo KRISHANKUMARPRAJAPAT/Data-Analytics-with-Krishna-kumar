@@ -10,7 +10,7 @@ My name is Krishna Kumar Prajapat, and I am passionate about data analysis. I am
 
 ### All projects are stored in this repository:
 
-- [Github repo](https://github.com/KRISHANKUMARPRAJAPAT)
+- [Github Repo](https://github.com/KRISHANKUMARPRAJAPAT)
 
 
 ## How to Use This Repository
@@ -19,9 +19,7 @@ My name is Krishna Kumar Prajapat, and I am passionate about data analysis. I am
 2. **Explore the Projects**: Navigate through the folders to explore the projects and resources.
 3. **Stay Updated**: Follow this repository to stay updated with my latest projects and resources.
 
-## Connect with Me
-
-## Let's Connect!
+## Connect with Me!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-kumar-451002262/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)](https://codebasics.io/portfolio/Krishna-kumar-prajapat)
