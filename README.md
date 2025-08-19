@@ -21,7 +21,7 @@ My name is Krishna Kumar Prajapat, and I am passionate about data analysis. I am
 
 ## Connect with Me!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-kumar-451002262/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishantheanalyst25/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)](https://codebasics.io/portfolio/Krishna-kumar-prajapat)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishnakkumarprajapat366@gmail.com)
 
